@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  color: #0f141e;
+  background-color: rgb(235, 212, 235);
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  max-width: 1300px;
+  margin: auto;
+}
+
+a {
+  color: rgb(20, 19, 20);
+  text-decoration: none;
+  font-weight: 1000;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(105, 96, 221);
+}
+
+.comfy {
+  width: 600px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+  margin-right: 15px;
+}
+
+.info {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.bg-yellow {
+  background: #97e44b;
+  border-radius: 28px;
+}
+
+.bg-orange {
+  background: #f1bb47;
+  border-radius: 28px;
+}
+
+.foxtrot {
+  width: 600px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+  margin-right: 28px;
+}
+
+.bg-red {
+  background: #e65f5f;
+  border-radius: 28px;
+}
+
+.eldorado {
+  width: 600px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25);
+  margin-right: 15px;
+}
+
+.text2 {
+  color: #212225;
+  font-size: 20px;
+  font-weight: 800;
+  margin: 4px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.text3 {
+  color: rgb(16, 18, 37);
+  font-weight: 800;
+  font-size: 21px;
+}
+
+h2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.bg-grey {
+  background: #f5e83a;
+  border-radius: 28px;
+  max-width: 450px;
+  margin: auto;
+}
